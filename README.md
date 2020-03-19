@@ -15,3 +15,5 @@ Bot to complete Oracle Learning Modules
 # You have to manually stop the script when it reaches the last module
 
 # Whenever there is an alert on the browser you have to manually click `Cancel`
+
+# Tweak `time.sleep()` values for faster or slower progress and also keep your network speed into consideration
